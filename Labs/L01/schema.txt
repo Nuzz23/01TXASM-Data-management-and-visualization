@@ -1,0 +1,12 @@
+flowchart TD
+    F[[Facts
+    --------
+    Net income
+    # Calls]]
+
+    F --->|callee| City --- Province --- Region
+    F --->|called| City
+    F --- TypeOfCharge
+    F --- Day --- Month --- Year
+    Day --- DayOfTheWeek
+  
