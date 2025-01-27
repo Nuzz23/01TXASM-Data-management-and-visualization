@@ -1,0 +1,55 @@
+{
+    "_id": {
+      "$oid": "59bef0cd2ad8532c2a600909"
+    },
+    "init_fuel": 96,
+    "city": "Torino",
+    "walking": {
+      "duration": 1183,
+      "distance": 1579
+    },
+    "init_address": "Via Chambéry 93, 110, 10142 Torino TO",
+    "vendor": "car2go",
+    "final_time": 1505686342,
+    "driving": {
+      "duration": 329,
+      "distance": 1846
+    },
+    "plate": "305/FF280SJ",
+    "final_address": "Via Sostegno, 40, 10146 Torino TO",
+    "init_time": 1505685697,
+    "vin": "WME4533421K151384",
+    "smartPhoneRequired": true,
+    "init_date": {
+      "$date": "2017-09-18T00:01:37Z"
+    },
+    "final_fuel": 93,
+    "exterior": "GOOD",
+    "interior": "GOOD",
+    "final_date": {
+      "$date": "2017-09-18T00:12:22Z"
+    },
+    "engineType": "CE",
+    "origin_destination": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          7.61133,
+          45.06886
+        ],
+        [
+          7.6195,
+          45.07828
+        ]
+      ]
+    },
+    "public_transport": {
+      "duration": 1065,
+      "distance": 2051,
+      "arrival_date": {
+        "$date": "2017-09-18T00:29:36Z"
+      },
+      "arrival_time": 1505687376
+    },
+    "distance": 1227
+  }

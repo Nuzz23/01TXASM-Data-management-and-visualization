@@ -1,0 +1,30 @@
+{
+    "_id": {
+      "$oid": "59bef0cd2ad8532c2a60093d"
+    },
+    "plate": "550/FK213PV",
+    "fuel": 37,
+    "vendor": "car2go",
+    "final_time": 1505685847,
+    "loc": {
+      "type": "Point",
+      "coordinates": [
+        7.64971,
+        45.11056
+      ]
+    },
+    "init_time": 1505685697,
+    "vin": "WME4530421Y135192",
+    "smartPhoneRequired": true,
+    "init_date": {
+      "$date": "2017-09-18T00:01:37Z"
+    },
+    "exterior": "GOOD",
+    "address": "Via Andrea Sansovino, 35, 10151 Torino TO",
+    "interior": "GOOD",
+    "final_date": {
+      "$date": "2017-09-18T00:04:07Z"
+    },
+    "engineType": "CE",
+    "city": "Torino"
+  }
